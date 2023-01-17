@@ -1,6 +1,7 @@
-Hello world!\n
-I am a student.\n
-I will create some applications with Dart (Flutter).\n
-I like to learn about Cyber Security.\n
-I worked with Arduino and ESP Prossesors.\n
+Hello world!
+I am a student.
+I will create some applications with Dart (Flutter).
+I like to learn about Cyber Security.
+I worked with Arduino and ESP Prossesors.
+
 I ...
