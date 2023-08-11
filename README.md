@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studing at [![KU] (kut.ac.ir/en)]<br>👯 I’m looking to collaborate on my projects<br>🤝 I’m looking for help<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently studing at <a href="https://kut.ac.ir/en"><strong>KUT</strong></a><br>👯 I’m looking to collaborate on my projects<br>🤝 I’m looking for help<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
